@@ -28,5 +28,5 @@ class Substring {
 }
 
 ```
-#output:
+# output:
 ![output of primitive](addi1.png)
